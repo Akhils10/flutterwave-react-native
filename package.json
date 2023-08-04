@@ -68,7 +68,7 @@
     "react-native-webview": "11.26.0"
   },
   "dependencies": {
-    "prop-types": "^15.6.2",
+    "prop-types": "^15.6.2"
   },
   "config": {
     "commitizen": {
